@@ -1,0 +1,14 @@
+c:\users\cleiton\documents\visual studio 2012\Projects\ControlesBasicos\ControlesBasicos\Bin\Debug\ApplicationIcon.png
+c:\users\cleiton\documents\visual studio 2012\Projects\ControlesBasicos\ControlesBasicos\Bin\Debug\Background.png
+c:\users\cleiton\documents\visual studio 2012\Projects\ControlesBasicos\ControlesBasicos\Bin\Debug\ControlesBasicos.dll
+c:\users\cleiton\documents\visual studio 2012\Projects\ControlesBasicos\ControlesBasicos\Bin\Debug\ControlesBasicos.pdb
+c:\users\cleiton\documents\visual studio 2012\Projects\ControlesBasicos\ControlesBasicos\Bin\Debug\AppManifest.xaml
+c:\users\cleiton\documents\visual studio 2012\Projects\ControlesBasicos\ControlesBasicos\Bin\Debug\ControlesBasicos.xap
+c:\users\cleiton\documents\visual studio 2012\Projects\ControlesBasicos\ControlesBasicos\obj\Debug\ControlesBasicos.csprojResolveAssemblyReference.cache
+c:\users\cleiton\documents\visual studio 2012\Projects\ControlesBasicos\ControlesBasicos\obj\Debug\App.g.cs
+c:\users\cleiton\documents\visual studio 2012\Projects\ControlesBasicos\ControlesBasicos\obj\Debug\Acesso.g.cs
+c:\users\cleiton\documents\visual studio 2012\Projects\ControlesBasicos\ControlesBasicos\obj\Debug\MainPage.g.cs
+c:\users\cleiton\documents\visual studio 2012\Projects\ControlesBasicos\ControlesBasicos\obj\Debug\ControlesBasicos.g.resources
+c:\users\cleiton\documents\visual studio 2012\Projects\ControlesBasicos\ControlesBasicos\obj\Debug\ControlesBasicos.dll
+c:\users\cleiton\documents\visual studio 2012\Projects\ControlesBasicos\ControlesBasicos\obj\Debug\ControlesBasicos.pdb
+c:\users\cleiton\documents\visual studio 2012\Projects\ControlesBasicos\ControlesBasicos\obj\Debug\XapCacheFile.xml

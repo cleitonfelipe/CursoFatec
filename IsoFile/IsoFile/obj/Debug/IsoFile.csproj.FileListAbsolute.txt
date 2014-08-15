@@ -1,0 +1,42 @@
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\Bin\Debug\IsoFile.dll
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\Bin\Debug\IsoFile.pdb
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\Bin\Debug\AppManifest.xaml
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\Bin\Debug\IsoFile_Debug_AnyCPU.xap
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\obj\Debug\App.g.cs
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\obj\Debug\MainPage.g.cs
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\obj\Debug\IsoFile.g.resources
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\obj\Debug\IsoFile.Resources.AppResources.resources
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\obj\Debug\IsoFile.csproj.GenerateResource.Cache
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\obj\Debug\IsoFile.dll
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\obj\Debug\IsoFile.pdb
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\obj\Debug\XapCacheFile.xml
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\Bin\Debug\Assets\delete.png
+C:\Users\Cleiton\Documents\06 - Evento\ETEC\Sorocodigos TechDay 2014\IsoFile\IsoFile\Bin\Debug\Assets\feature.camera.png
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\Bin\Debug\Assets\delete.png
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\Bin\Debug\Assets\feature.camera.png
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\Bin\Debug\IsoFile.dll
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\Bin\Debug\IsoFile.pdb
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\Bin\Debug\AppManifest.xaml
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\Bin\Debug\IsoFile_Debug_AnyCPU.xap
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\obj\Debug\App.g.cs
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\obj\Debug\MainPage.g.cs
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\obj\Debug\IsoFile.g.resources
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\obj\Debug\IsoFile.Resources.AppResources.resources
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\obj\Debug\IsoFile.csproj.GenerateResource.Cache
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\obj\Debug\IsoFile.dll
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\obj\Debug\IsoFile.pdb
+C:\Users\Cleiton\Documents\GitHub\PostsWindowsPhone\IsoFile\IsoFile\obj\Debug\XapCacheFile.xml
